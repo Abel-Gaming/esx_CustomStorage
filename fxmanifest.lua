@@ -1,4 +1,4 @@
-fx_version 'bodacious'
+fx_version 'cerulean'
 game 'gta5'
 description 'ESX Custom Storage - add storage at any coordinate'
 author 'Abel Gaming'
