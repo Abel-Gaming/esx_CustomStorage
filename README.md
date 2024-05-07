@@ -1,7 +1,5 @@
-# ESX-Custom-Storage
-For each location in the config, you must add that society name
-to your database in the addon_inventory table. I have provided a
-base SQL file to make it easier
+# ESX Custom Storage
+To add a custom storage location, just add it to the config using coordinates!
 
 # Requirements
-You must have esx_addoninventory
+You must have OX Inventory: https://github.com/overextended/ox_inventory
