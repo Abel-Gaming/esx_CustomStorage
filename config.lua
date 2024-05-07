@@ -10,7 +10,7 @@ Config.Locations = {
         label = 'Benny\'s (Power Street)', -- This is for OX Inventory
         slots = 50, -- This is for OX Inventory
         weight = 100000, -- This is for OX Inventory
-        owner = 'char2:f1ce70475a9562f7e24b461894bea0ac1aa5a178', -- This is for OX Inventory
+        owner = 'char2:license', -- This is for OX Inventory
     },
     {
         name = 'Hayes Auto', -- Label to appear on Blips
@@ -21,6 +21,6 @@ Config.Locations = {
         label = 'Hayes Auto',
         slots = 50,
         weight = 100000,
-        owner = 'char1:a3f84edbcd719950b582e8e4d38064fa513f22ac',
+        owner = 'char1:license',
     },
 }
